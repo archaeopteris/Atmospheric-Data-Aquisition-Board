@@ -28,8 +28,8 @@
 //	___________________________________________________________ //
 //																//
 //	Connect Sensors as follows:									//
-//	NOTE: connections for Arduino boards are different.			//
-//		See appropriate programs.								//
+//	NOTE: This is for connecting to Teensy 3.1 board.			//
+//			For Arduino boards connections are different.		//
 //																//
 //	Barometric Sesnor Connections								//
 //	===========													//
